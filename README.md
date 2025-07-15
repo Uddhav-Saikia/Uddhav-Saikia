@@ -65,7 +65,7 @@ From designing intelligent APIs to crafting intuitive interfaces, I love working
 
 <!-- Side-by-side stats -->
 <div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Uddhav-Saikia&theme=radical" alt="GitHub Streak Stats" />
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Uddhav-Saikia&theme=vue-dark" alt="GitHub Streak" /></a>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Uddhav-Saikia&layout=compact&langs_count=10&theme=radical" alt="Top Languages" />
 </div>
 
