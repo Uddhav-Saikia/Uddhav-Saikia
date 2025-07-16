@@ -66,6 +66,7 @@ From designing intelligent APIs to crafting intuitive interfaces, I love working
 <!-- Side-by-side stats -->
 <div align="left" style="display: flex; justify-content: left; gap: 10px; flex-wrap: wrap;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Uddhav-Saikia&layout=compact&langs_count=10&theme=vue-dark" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Uddhav-Saikia&theme=vue-dark&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
